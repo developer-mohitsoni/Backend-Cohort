@@ -40,5 +40,5 @@ const server = net.createServer((socket) => {
 });
 
 server.listen(3000, () => {
-  console.log("TCP Chat Server is listening on port 1337");
+  console.log("TCP Chat Server is listening on port 3000");
 });
