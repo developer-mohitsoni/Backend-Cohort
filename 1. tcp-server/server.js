@@ -7,7 +7,7 @@ const server = net.createServer((socket) => {
   socket.on("data", (chunk) => {
     console.log("Received:", chunk.toString());
 
-    socket.write(`Received: ${chunk}`);
+    socket.write(`Server Received: ${chunk}`);
 
     socket.end();
   });
