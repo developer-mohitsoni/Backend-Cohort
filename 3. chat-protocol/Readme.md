@@ -1,7 +1,5 @@
 # Simple CHAT Protocol 1.0
 
-_By Coder's Gyan_
-
 ## 1. Abstract
 
 The Simple CHAT Protocol is a lightweight, text-based protocol designed for educational purposes. It enables a TCP-based chat system where clients can authenticate, join a chat session, send messages, and leave. This document outlines the protocol's syntax, commands, and operational flow.
