@@ -1,5 +1,9 @@
 # Simple CHAT Protocol 1.0
 
+## 🎥 Demo Video
+
+[![Demo Video](![Screenshot 2025-03-05 203028](https://github.com/user-attachments/assets/9c04d645-53b9-42ce-b575-ce2d2423ff4e))](https://github.com/user-attachments/assets/5e0dad59-a0de-42a7-a47f-5b7ec90b75ac)
+
 ## 1. Abstract
 
 The Simple CHAT Protocol is a lightweight, text-based protocol designed for educational purposes. It enables a TCP-based chat system where clients can authenticate, join a chat session, send messages, and leave. This document outlines the protocol's syntax, commands, and operational flow.
